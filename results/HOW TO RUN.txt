@@ -1,0 +1,4 @@
+In the emonet/run.py, select the model you want to run by uncommenting it (in the main function)
+Then
+From the root folder (project), run
+python3 -m emonet.run
